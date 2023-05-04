@@ -1,5 +1,7 @@
 # AdiBags_ZaralekCavern
-Creates a new AdiBags filter for the Zaralek Cavern added in Patch 10.1.
+Creates a new AdiBags filter for the items from Zaralek Cavern added in Patch 10.1.
+
+https://wow.curseforge.com/wow/addons/adibags-zaralekcavern
 
 ## Zaralek Cavern Items
 
@@ -17,6 +19,7 @@ Creates a new AdiBags filter for the Zaralek Cavern added in Patch 10.1.
 * [Clanging Dirt-Covered Pouch](https://wowhead.com/item=205248)
 * [Clinking Dirt-Covered Pouch](https://wowhead.com/item=205247)
 * [Cobalt Shalewing](https://wowhead.com/item=205203)
+* [Conch Whistle](https://wowhead.com/item=203708)
 * [Coveted Bauble](https://wowhead.com/item=204727)
 * [Crown of the Twin Elders](https://wowhead.com/item=204425)
 * [Devourer Lobstrok](https://wowhead.com/item=205026)

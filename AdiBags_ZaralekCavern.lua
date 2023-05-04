@@ -15,6 +15,7 @@ function cavernFilter:OnInitialize()
     self.cavern = {
         [202171] = true, -- Obsidian Flightstone
         [203706] = true, -- Hurricane Scepter
+        [203708] = true, -- Conch Whistle
         [204075] = true, -- Whelpling's Shadowflame Crest Fragment
         [204076] = true, -- Drake's Shadowflame Crest Fragment
         [204193] = true, -- Whelpling's Shadowflame Crest
