@@ -18,8 +18,10 @@ function cavernFilter:OnInitialize()
         [203708] = true, -- Conch Whistle
         [204075] = true, -- Whelpling's Shadowflame Crest Fragment
         [204076] = true, -- Drake's Shadowflame Crest Fragment
+        [204077] = true, -- Wyrm's Shadowflame Crest Fragment
         [204193] = true, -- Whelpling's Shadowflame Crest
         [204195] = true, -- Drake's Shadowflame Crest
+        [204196] = true, -- Wyrm's Shadowflame Crest
         [204361] = true, -- Winding Slitherdrake
         [204408] = true, -- Gholna's Lavaborne Legwraps
         [204409] = true, -- Heatbinder's Burning Slippers
@@ -29,9 +31,12 @@ function cavernFilter:OnInitialize()
         [204426] = true, -- Blazestalker's Smelted Cleats
         [204431] = true, -- Epaulettes of Draconic Conquest
         [204432] = true, -- Vakan's Shale Greatbelt
+        [204440] = true, -- Spark of Shadowflame
         [204460] = true, -- Zaralek Glowspores
         [204681] = true, -- Enchanted Whelpling's Shadowflame Crest
+        [204682] = true, -- Enchanted Wrym's Shadowflame Crest
         [204715] = true, -- Unearthed Fragrant Coin
+        [204717] = true, -- Splintered Spark of Shadwoflame
         [204721] = true, -- Whelpling's Small Chest
         [204722] = true, -- Whelpling's Bountiful Chest
         [204723] = true, -- Whelpling's Hefty Chest
@@ -66,6 +71,7 @@ function cavernFilter:OnInitialize()
         [205982] = true, -- Lost Dig Map
         [205983] = true, -- Scentsational Niffen Treasures
         [205984] = true, -- Bartered Dig Map
+        [206009] = true, -- Ouroboros Tablet
     }
 end
 
