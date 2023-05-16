@@ -19,7 +19,9 @@ function cavernFilter:OnInitialize()
         [204075] = true, -- Whelpling's Shadowflame Crest Fragment
         [204076] = true, -- Drake's Shadowflame Crest Fragment
         [204077] = true, -- Wyrm's Shadowflame Crest Fragment
+        [204078] = true, -- Aspect's Shadowflame Crest Fragmenta
         [204193] = true, -- Whelpling's Shadowflame Crest
+        [204194] = true, -- Aspect's Shadowflame Crest
         [204195] = true, -- Drake's Shadowflame Crest
         [204196] = true, -- Wyrm's Shadowflame Crest
         [204361] = true, -- Winding Slitherdrake
@@ -44,6 +46,7 @@ function cavernFilter:OnInitialize()
         [204725] = true, -- Drake's Hefty Chest
         [204726] = true, -- Drake's Bountiful Chest
         [204727] = true, -- Coveted Bauble
+        [204843] = true, -- Draconic Mark of Mastery
         [204985] = true, -- Barter Brick
         [205026] = true, -- Devourer Lobstrok
         [205114] = true, -- Brul
