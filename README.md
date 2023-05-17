@@ -1,7 +1,7 @@
 # AdiBags_ZaralekCavern
 Creates a new AdiBags filter for the items from Zaralek Cavern added in Patch 10.1.
 
-https://wow.curseforge.com/wow/addons/adibags-zaralekcavern
+https://legacy.curseforge.com/wow/addons/adibags-zaralekcavern/
 
 ## Zaralek Cavern Items
 
@@ -31,6 +31,7 @@ https://wow.curseforge.com/wow/addons/adibags-zaralekcavern
 * [Drake's Shadowflame Crest Fragment](https://www.wowhead.com/item=204076)
 * [Drake's Shadowflame Crest](https://www.wowhead.com/item=204195)
 * [Drake's Small Chest](https://www.wowhead.com/item=204724)
+* [Enchanted Aspect's Shadowflame Crest](https://www.wowhead.com/item=204697)
 * [Enchanted Whelpling's Shadowflame Crest](https://www.wowhead.com/item=204681)
 * [Enchanted Wrym's Shadowflame Crest](https://www.wowhead.com/item=204682)
 * [Epaulettes of Draconic Conquest](https://www.wowhead.com/item=204431)

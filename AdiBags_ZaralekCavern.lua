@@ -37,6 +37,7 @@ function cavernFilter:OnInitialize()
         [204460] = true, -- Zaralek Glowspores
         [204681] = true, -- Enchanted Whelpling's Shadowflame Crest
         [204682] = true, -- Enchanted Wrym's Shadowflame Crest
+        [204697] = true, -- Enchanted Aspect's Shadowflame Crest
         [204715] = true, -- Unearthed Fragrant Coin
         [204717] = true, -- Splintered Spark of Shadwoflame
         [204721] = true, -- Whelpling's Small Chest
