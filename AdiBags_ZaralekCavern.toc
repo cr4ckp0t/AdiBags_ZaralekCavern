@@ -1,6 +1,7 @@
 ## Interface: 100107
 ## Title: AdiBags - Zaralek Cavern
-## Version: 1.0.9
+## IconTexture: Interface\AddOns\AdiBags_ZaralekCavern\Media\crackpot
+## Version: 1.0.10
 ## Author: Crackpot
 ## Notes: Creates AdiBags filter for Zaralek Cavern added in patch 10.1.
 ## X-Category: Bags & Inventory
@@ -8,7 +9,5 @@
 
 Localization.lua
 AdiBags_ZaralekCavern.lua
-
-
 
 
